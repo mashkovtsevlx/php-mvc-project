@@ -1,0 +1,49 @@
+body
+{
+    padding-top: 30px;
+}
+
+.error-template
+{
+    padding: 40px 15px;text-align: center;
+}
+.error-actions
+{
+    margin-top:15px;margin-bottom:15px;
+}
+.error-actions .btn
+{
+    margin-right:10px; 
+}
+
+.card-img-top
+{
+    width: 100%;
+}
+
+.card-body
+{
+    padding: 10px;
+}
+
+.task-card .alert
+{
+    margin-bottom: 0px;
+    text-align: center;
+    cursor: pointer;
+}
+
+#cards-pagination
+{
+    width: 100%;
+    margin-top: 20px;
+}
+
+.sort-dropdown {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.task-card .card-text {
+    cursor: pointer;
+}
